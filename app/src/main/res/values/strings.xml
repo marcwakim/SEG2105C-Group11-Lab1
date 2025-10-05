@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">MyCalculator</string>
+    <string name="one">1\n</string>
+    <string name="two">2\n</string>
+    <string name="three">3\n</string>
+    <string name="four">4\n</string>
+    <string name="five">5\n</string>
+    <string name="six">6\n</string>
+    <string name="seven">7\n</string>
+    <string name="eight">8\n</string>
+    <string name="nine">9\n</string>
+    <string name="clear">C\n</string>
+    <string name="zero">0\n</string>
+    <string name="dot">.</string>
+    <string name="multiply">*\n</string>
+    <string name="divide">/</string>
+    <string name="subtract">-</string>
+    <string name="addition">+</string>
+    <string name="equal">=\n</string>
+
+
 </resources>
